@@ -1,0 +1,3 @@
+include *.py
+include names/dist.all.py names/dist.female.py names/dist.male.py
+include random_names/city.py random_names/female_first_names.py random_names/home_address.py random_names/last_names.py random_names/male_first_names.py
