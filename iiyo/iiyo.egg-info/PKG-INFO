@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: iiyo
+Version: 1.0.2
+Summary: iiyo is Sinhala Prastha Pirulu Theravili, Thun theravili Sinhalen, Sinhala Random Name genarate 
+Home-page: https://github.com/dotLK/iiyo
+Author: https://github.com/dotLK
+Author-email: 
+License: MIT
+Keywords: iiyo,Sinhala Prastha Pirulu,Theravili,Thun theravili sinhalen,random_name_generator,name-generator
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+License-File: LICENCE.txt
