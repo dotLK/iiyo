@@ -32,6 +32,11 @@ jobs:
         echo "Building the package..."
         python -m build
 
+    - name: List Files
+      run: |
+        echo "Listing files in the dist directory:"
+        ls -l dist/
+
     - name: Publish package
       uses: pypa/gh-action-pypi-publish@v1  # Specify a specific version
       with:
